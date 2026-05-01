@@ -5,6 +5,7 @@ A console-based application developed in Java to efficiently manage student reco
 ## Key Features
 - Add and store new student records
 - View all stored student details
+- update and delete student details
 - Search students by unique ID
 - Persistent storage using file handling
 
@@ -27,6 +28,5 @@ src/main/
 - Interact with the system via console menu
 
 ## Scope for Enhancement
-- Implement update and delete operations
 - Integrate database (MySQL) for scalability
 - Develop a GUI using JavaFX or Swing
